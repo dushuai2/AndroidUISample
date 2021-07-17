@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidUISampleGitHub.iml" filepath="$PROJECT_DIR$/.idea/AndroidUISampleGitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/activity_sample/AndroidUISampleGitHub.activity_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/activity_sample/AndroidUISampleGitHub.activity_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidUISampleGitHub.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidUISampleGitHub.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backgroudpersistent_sample/AndroidUISampleGitHub.backgroudpersistent_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/backgroudpersistent_sample/AndroidUISampleGitHub.backgroudpersistent_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/circleprogressview_sample/AndroidUISampleGitHub.circleprogressview_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/circleprogressview_sample/AndroidUISampleGitHub.circleprogressview_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cutoutssupport_sample/AndroidUISampleGitHub.cutoutssupport_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/cutoutssupport_sample/AndroidUISampleGitHub.cutoutssupport_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datetimepicker_sample/AndroidUISampleGitHub.datetimepicker_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/datetimepicker_sample/AndroidUISampleGitHub.datetimepicker_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dialogfragment_sample/AndroidUISampleGitHub.dialogfragment_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/dialogfragment_sample/AndroidUISampleGitHub.dialogfragment_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expandlistview_sample/AndroidUISampleGitHub.expandlistview_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/expandlistview_sample/AndroidUISampleGitHub.expandlistview_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/radionbuttonsample/AndroidUISampleGitHub.radionbuttonsample.iml" filepath="$PROJECT_DIR$/.idea/modules/radionbuttonsample/AndroidUISampleGitHub.radionbuttonsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recylerview_sample/AndroidUISampleGitHub.recylerview_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/recylerview_sample/AndroidUISampleGitHub.recylerview_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spannablestring_sample/AndroidUISampleGitHub.spannablestring_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/spannablestring_sample/AndroidUISampleGitHub.spannablestring_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stack_viewpager_sample/AndroidUISampleGitHub.stack_viewpager_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/stack_viewpager_sample/AndroidUISampleGitHub.stack_viewpager_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/startoptimization_sample/AndroidUISampleGitHub.startoptimization_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/startoptimization_sample/AndroidUISampleGitHub.startoptimization_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stopmocklocation_sample/AndroidUISampleGitHub.stopmocklocation_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/stopmocklocation_sample/AndroidUISampleGitHub.stopmocklocation_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/switchbutton_sample/AndroidUISampleGitHub.switchbutton_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/switchbutton_sample/AndroidUISampleGitHub.switchbutton_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toolbar_sample/AndroidUISampleGitHub.toolbar_sample.iml" filepath="$PROJECT_DIR$/.idea/modules/toolbar_sample/AndroidUISampleGitHub.toolbar_sample.iml" />
+    </modules>
+  </component>
+</project>

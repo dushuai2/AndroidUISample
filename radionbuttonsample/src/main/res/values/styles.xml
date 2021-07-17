@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--声明RadioButton的样式-->
+<style name="style_radio_button" parent="Widget.AppCompat.CompoundButton.RadioButton">
+    <!--选中样式-->
+    <item name="android:colorControlActivated">@color/colorCheck</item>
+
+    <!--为选中样式-->
+    <item name="android:colorControlNormal">@color/colorNormal</item>
+</style>
+
+</resources>

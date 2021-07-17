@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity_sample" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/backgroudpersistent_sample" />
+            <option value="$PROJECT_DIR$/circleprogressview_sample" />
+            <option value="$PROJECT_DIR$/cutoutssupport_sample" />
+            <option value="$PROJECT_DIR$/datetimepicker_sample" />
+            <option value="$PROJECT_DIR$/dialogfragment_sample" />
+            <option value="$PROJECT_DIR$/expandlistview_sample" />
+            <option value="$PROJECT_DIR$/radionbuttonsample" />
+            <option value="$PROJECT_DIR$/recylerview_sample" />
+            <option value="$PROJECT_DIR$/spannablestring_sample" />
+            <option value="$PROJECT_DIR$/stack_viewpager_sample" />
+            <option value="$PROJECT_DIR$/startoptimization_sample" />
+            <option value="$PROJECT_DIR$/stopmocklocation_sample" />
+            <option value="$PROJECT_DIR$/switchbutton_sample" />
+            <option value="$PROJECT_DIR$/toolbar_sample" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
